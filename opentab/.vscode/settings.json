@@ -1,0 +1,11 @@
+{
+	"java.dependency.syncWithFolderExplorer": true,
+	"java.dependency.packagePresentation": "flat",
+	"java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/derekli/Desktop/School/App_Prog_in_Java/project/opentab/opencv_min/opencv-440.jar",
+        "opencv_min/opencv-440.jar",
+        "seaglass.jar",
+        "flatlaf.jar"
+    ]
+}
